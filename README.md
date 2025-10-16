@@ -50,9 +50,9 @@ Run the program.
 
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: AKSHAY KARTHICK ASR
+Developed by: kayalvizhi.v
 
-RegisterNumber: 212224230015
+RegisterNumber: 25018351
 ```
 module EX7(j, k, clk, q, qbar);
     input j, k, clk;
